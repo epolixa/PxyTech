@@ -1,0 +1,3 @@
+# Time in seconds that a player can idle before AFK status is automatically set
+# Default: 240 seconds (4 minutes)
+IDLE_TIME: 240
